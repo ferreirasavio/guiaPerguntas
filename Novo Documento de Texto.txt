@@ -1,0 +1,5 @@
+npm init : iniciar o projeto
+npm install --save sequelize : faz a conexão com banco de dados de diversos tipos
+npm install --save mysql : para o sequelize trabalhar com o mysql
+npm instal --save express : para adionar diversas configurações
+npm install --save ejs: para o uso de html
